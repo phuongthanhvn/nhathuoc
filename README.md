@@ -14,7 +14,7 @@ A command-line utility that creates projects from **cookiecutters** (project
 templates), e.g. creating a Python package project from a Python package project
 template.
 
-* Documentation: [https://suimaoga.webflow.io](sùi mào gà)
+* Documentation: [sùi mào gà](https://suimaoga.webflow.io)
 
 
 ![Cookiecutter](https://raw.githubusercontent.com/cookiecutter/cookiecutter/3ac078356adf5a1a72042dfe72ebfa4a9cd5ef38/logo/cookiecutter_medium.png)
