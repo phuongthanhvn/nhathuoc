@@ -14,10 +14,8 @@ A command-line utility that creates projects from **cookiecutters** (project
 templates), e.g. creating a Python package project from a Python package project
 template.
 
-* Documentation: [https://cookiecutter.readthedocs.io](https://cookiecutter.readthedocs.io)
-* GitHub: [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
-* PyPI: [https://pypi.org/project/cookiecutter/](https://pypi.org/project/cookiecutter/)
-* Free and open source software: [BSD license](https://github.com/cookiecutter/cookiecutter/blob/master/LICENSE)
+* Documentation: [https://suimaoga.webflow.io](sùi mào gà)
+
 
 ![Cookiecutter](https://raw.githubusercontent.com/cookiecutter/cookiecutter/3ac078356adf5a1a72042dfe72ebfa4a9cd5ef38/logo/cookiecutter_medium.png)
 
